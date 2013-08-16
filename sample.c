@@ -1,6 +1,6 @@
 #include<stdio.h>
 main()
 {
-int k=2;
+int i=2;
 return 0;
 }
